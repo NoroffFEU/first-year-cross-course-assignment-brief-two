@@ -1,15 +1,24 @@
 # Square Eyes
 A video streaming website for independent filmmakers to stream videos on a pay-per-view basis.  
 
-## Slogan
-Connecting 
+### Slogan
+Connecting Creators
 
-Target audience
+### Target audience
+#### Content producers 
+Aged 20 to 35 whose interests are film-making and want to make money from short films they are producing.
 
-Age 30 to 50 whose interests are: being outdoors, hiking, exploring, skiing, camping, canoeing
-Unique selling points
+#### Content watchers
+Aged 25 to 40 and are interested in cinema. They enjoy watching interesting and engaging films.
 
-The jackets are mid-range in price and emphasize durability and being suitable for a range of different weather types ensuring customers are comfortable whatever adventure they go on.
-Site architecture
+### Unique selling points
+For the content producers: Financially benefitting from the films they've produced, a wider reach than they might have had otherwise.
+For content watchers: Supporting small filmmakers and discovering interesting films.
 
-Home Jackets Men's Women’s Checkout Checkout success About Contact
+### Site architecture
+- Home 
+- Search page of films
+- Film page
+- Pay per view purchase page
+- Create account page (consider the two types of user producer vs watcher)
+- Account page
