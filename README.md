@@ -1,5 +1,5 @@
 # Square Eyes
-![Square Eyes Logo](https://raw.githubusercontent.com/NoroffFEU/first-year-cross-course-assignment-brief-two/master/SquareEyes_Logo.png =300x159)
+![Square Eyes Logo](https://raw.githubusercontent.com/NoroffFEU/first-year-cross-course-assignment-brief-two/master/SquareEyes_Logo.png =300x)
 A video streaming website for independent filmmakers to stream videos on a pay-per-view basis. There are two main types of users for the site: those selling the films they've produced, and another watching the videos that are being made.
 
 The website should emphasise that the films are independently produced and that they are crafted by people who are passionate about making films, for people who are passionate about watching high quality films.
