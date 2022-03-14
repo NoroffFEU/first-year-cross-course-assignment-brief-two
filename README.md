@@ -12,9 +12,6 @@ Connecting Film-Lovers
 #### Content producers 
 Aged 25 to 40 and are interested in cinema. They enjoy watching interesting and high-quality films.
 
-#### Content watchers
-Aged 25 to 40 and are interested in cinema. They enjoy watching interesting and engaging films.
-
 ### Unique selling points
 Content watchers: Supporting small filmmakers and discovering interesting films.
 
