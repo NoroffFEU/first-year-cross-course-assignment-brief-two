@@ -1,28 +1,28 @@
 # Square Eyes
 ![Square Eyes Logo](https://raw.githubusercontent.com/NoroffFEU/first-year-cross-course-assignment-brief-two/master/SquareEyes_Logo.png)
 
-A video streaming website for independent filmmakers to stream videos on a pay-per-view basis. There are two main types of users for the site: those selling the films they've produced, and another watching the videos that are being made.
+A video streaming website where you can purchase high-quality videos directly from the people who make them. The users of this website want to purchase videos right away, which will allow them to watch it online.
 
-The website should emphasise that the films are independently produced and that they are crafted by people who are passionate about making films, for people who are passionate about watching high quality films.
+The website should emphasise that you can easily discover great collections or browse through different categories to find films.
 
 ### Slogan
 Connecting Film-Lovers
 
 ### Target audience
 #### Content producers 
-Aged 20 to 35 whose interests are film-making and want to make money from short films they are producing.
+Aged 25 to 40 and are interested in cinema. They enjoy watching interesting and high-quality films.
 
 #### Content watchers
 Aged 25 to 40 and are interested in cinema. They enjoy watching interesting and engaging films.
 
 ### Unique selling points
-For the content producers: Financially benefitting from the films they've produced, a wider reach than they might have had otherwise.
-For content watchers: Supporting small filmmakers and discovering interesting films.
+Content watchers: Supporting small filmmakers and discovering interesting films.
 
 ### Site architecture
 - Home 
-- Search page of films
-- Film page
-- Pay per view purchase page
-- Create account page (consider the two types of user producer vs watcher)
-- Account page
+- List of Videos
+- A video page showing the product details
+- A checkout page
+- A checkout success
+- About
+- Contact
