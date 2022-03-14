@@ -9,7 +9,7 @@ The website should emphasise that you can easily discover great collections or b
 Connecting Film-Lovers
 
 ### Target audience
-#### Content producers 
+#### Content watchers 
 Aged 25 to 40 and are interested in cinema. They enjoy watching interesting and high-quality films.
 
 ### Unique selling points
