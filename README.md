@@ -19,6 +19,7 @@ Content watchers: Supporting small filmmakers and discovering interesting films.
 - Home 
 - List of Videos
 - A video page showing the product details
+_(product details such as the description of the product, price and add to cart button)_
 - A checkout page
 - A checkout success
 - About
