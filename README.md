@@ -1,9 +1,7 @@
 # Square Eyes
 ![Square Eyes Logo](https://raw.githubusercontent.com/NoroffFEU/first-year-cross-course-assignment-brief-two/master/SquareEyes_Logo.png)
 
-A video streaming website where you can purchase high-quality videos directly from the people who make them. The users of this website want to purchase videos right away, which will allow them to watch it online.
-
-The website should emphasise that you can easily discover great collections or browse through different categories to find films.
+A video e-commerce website where you can purchase high-quality videos. The users of this website want to purchase videos right away, which will allow them to watch it online.
 
 ### Slogan
 Connecting Film-Lovers
@@ -13,7 +11,7 @@ Connecting Film-Lovers
 Aged 25 to 40 and are interested in cinema. They enjoy watching interesting and high-quality films.
 
 ### Unique selling points
-Content watchers: Supporting small filmmakers and discovering interesting films.
+A provider of affordable vidoes with the convenience of watching it online.
 
 ### Site architecture
 - Home 
